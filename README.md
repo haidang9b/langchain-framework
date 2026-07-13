@@ -154,6 +154,10 @@ Assignment/
 │   └── langgraph_demo.ipynb
 ├── outputs/               # sample_result.json, graph.png
 ├── requirements.txt
+├── evidences               # Capture the console log when run assigments
+│   ├── assigment 1.png
+│   ├── assigment 2-1.png
+│   └── assigment 2-2.png
 ├── .env.example
 └── README.md
 ```
