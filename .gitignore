@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Vector store (rebuilds automatically)
+.chroma/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

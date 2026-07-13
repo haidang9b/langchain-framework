@@ -1,0 +1,12 @@
+{
+  "question": "My computer is infected with malware. What steps should I take?",
+  "route": "retrieval",
+  "answer": "1) Isolate the infected computer:\n- Disconnect from the internet.\n- Disconnect any external storage devices, such as USB drives.\n\n2) Identify the malware:\n- Use reputable antivirus or anti-malware software to scan your computer and identify the malware.\n- If you don\u2019t have one installed, consider downloading and installing a trusted antivirus program.\n\n3) Remove the malware:\n- Follow the instructions provided by your antivirus software to remove the detected malware. This often involves quarantining or deleting infected files and cleaning your system.\n\n4) Update your operating system and software:\n- Make sure your operating system and all installed software are up to date.\n\n5) Change passwords:\n- If you suspect the malware has access to sensitive information, change passwords for important accounts such as email, online banking, and social media.\n\n6) Restore or reinstall the operating system if necessary:\n- In severe cases, you may need to reinstall your operating system.\n- Back up important data before doing this.\n\n7) Install preventive measures:\n- Install reputable antivirus software and keep it updated.\n- Enable your computer\u2019s built-in firewall.\n\nSource: BonBon FAQ.pdf, page 10",
+  "finding": {
+    "title": "Malware response requires immediate isolation and credential protection",
+    "severity": "High",
+    "evidence": "The FAQ instructs users with an infected computer to immediately disconnect from the internet and external storage, scan and remove the malware with reputable antivirus software, update the operating system and software, change passwords for important accounts if sensitive information may be exposed, and in severe cases reinstall the operating system after backing up important data.",
+    "recommendation": "Immediately isolate the affected device from networks and removable media, run a trusted anti-malware scan and remove detected threats, fully patch the system, reset passwords for sensitive accounts from a clean device, and if infection persists or is severe, back up critical data and perform a full operating system reinstall."
+  },
+  "validation_result": "GROUNDED \u2014 The answer accurately reproduces the malware-removal steps listed in the provided context from page 10, with no unsupported additions beyond minor paraphrasing."
+}
