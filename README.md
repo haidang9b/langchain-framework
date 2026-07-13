@@ -25,7 +25,7 @@ data/BonBon FAQ.pdf
                                   → extract_finding → validate_groundedness → report
 ```
 
-**Modern patterns used** (per assignment §12 — no deprecated APIs):
+**Modern patterns used** :
 
 | Requirement | Implementation |
 |---|---|
@@ -92,7 +92,7 @@ jupyter notebook notebooks/langgraph_demo.ipynb  # Assignment 2
 
 ---
 
-## Structured finding output (§4.2)
+## Structured finding output 
 
 ```json
 {
@@ -117,7 +117,7 @@ A live sample is written to [`outputs/sample_result.json`](outputs/sample_result
 
 ---
 
-## Rubric mapping (§8)
+## Rubric mapping 
 
 | Area | Where |
 |---|---|
